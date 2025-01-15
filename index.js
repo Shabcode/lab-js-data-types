@@ -61,7 +61,7 @@ const b = false;
 const expression1 = a && b;
 // true
 const expression2 = a || b;
-// true
+// false
 const expression3 = !a && b;
 // true
 const expression4 = !(a && b);
