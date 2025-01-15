@@ -7,7 +7,7 @@ const s3 = "Ted";
 const s4 = "bread";
 const s5 = "and";
 
-console.log(`${s1} ${s2} ${s3} ${s4} ${s5}`)
+console.log(`${s1} ${s2} ${s3} ${s4} ${s5} ${s3} ${s2} ${s1} ${s4}`)
 
 /*******************************************
     Iteration 1.2 | Camel Tail
